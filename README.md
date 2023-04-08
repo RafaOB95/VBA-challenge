@@ -6,5 +6,7 @@ The code only works for the file named Multiple_year_stock_data, it also works f
 
 I tried to upload the excel file with the macros, but the size was to big, so you will need to copy and paste my code to the file named Multiple_year_stock_data.
 
+When you finish to run the code it will appropriate to change the number format to percentage in the columns/rows: Percent change, Greatest % Increase and Greatest % Decrease.
+
 I found this line of code "Cells(Rows.Count, 1).End(xlUp).Row" that help me to found the last row with data here: https://es.ccm.net/aplicaciones-e-internet/ofimatica/4028-vba-ultima-fila-que-contiene-datos-cualquier-version/
 
